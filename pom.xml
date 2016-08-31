@@ -132,7 +132,7 @@
                 <apigee.profile>dev1</apigee.profile>
                 <apigee.env>dev1</apigee.env>
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
-                <apigee.apiversion>v1</apigee.apiversion>
+                <apigee.apiversion>v2</apigee.apiversion>
                 <apigee.org>${org}</apigee.org>
                 <apigee.username>${username}</apigee.username>
                 <apigee.password>${password}</apigee.password>
@@ -149,7 +149,7 @@
                 <apigee.profile>prod</apigee.profile>
                 <apigee.env>prod</apigee.env>
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
-                <apigee.apiversion>v1</apigee.apiversion>
+                <apigee.apiversion>v2</apigee.apiversion>
                 <apigee.org>${org}</apigee.org>
                 <apigee.username>${username}</apigee.username>
                 <apigee.password>${password}</apigee.password>
